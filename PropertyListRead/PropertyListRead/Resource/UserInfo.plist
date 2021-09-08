@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Email</key>
+	<string>abcdefg@gmail.com</string>
+	<key>Gender</key>
+	<string>남자</string>
+	<key>Name</key>
+	<string>아무개</string>
+	<key>Age</key>
+	<string>30</string>
+	<key>Address</key>
+	<string>서울특별시 강남구 도산대로 12-345 00빌딩 5층</string>
+</dict>
+</plist>
